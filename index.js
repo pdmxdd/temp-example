@@ -1,6 +1,6 @@
 // hello
 
-let name = "Ted";
+let name = "Fred";
 let lastName = "Matthews";
 
 console.log(name + " " + lastName);
